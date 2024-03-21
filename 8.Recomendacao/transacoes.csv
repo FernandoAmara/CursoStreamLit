@@ -1,0 +1,15 @@
+Leite,Pão,Ovos
+Pão,Manteiga
+Cerveja,Frango
+Leite,Cerveja,Pão
+Ovos,Manteiga
+Leite,Pão,Manteiga,Ovos
+Cerveja,Pão
+Leite,Biscoitos
+Ovos,Manteiga,Banana
+Pão,Banana,Frango
+Cerveja,Leite,Biscoitos
+Banana,Pão,Manteiga
+Frango,Leite,Ovos
+Banana,Frango,Pão
+Biscoitos,Leite,Ovos
